@@ -20,4 +20,4 @@
     - Online - Canvas links already created, link to them from github schedule
 12. Add lecture early in the class (before proposla) about prior project, Gantt charts, and budgets
 13. Spellcheck all pages (project especially.)
-14. Ensure all files have new dates
+14. Ensure all files have new dates & change name
