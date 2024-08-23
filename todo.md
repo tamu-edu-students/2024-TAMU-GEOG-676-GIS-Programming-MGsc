@@ -21,3 +21,5 @@
 12. Add lecture early in the class (before proposla) about prior project, Gantt charts, and budgets
 13. Spellcheck all pages (project especially.)
 14. Ensure all files have new dates & change name
+15. links to videos are currently broken -> fix them by adding new google drive or youtube links 
+16. 
